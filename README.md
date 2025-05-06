@@ -1,2 +1,2 @@
 # cooooool
-cool stuff, mainly just stuff i've made.
+cool stuff, mainly just python
