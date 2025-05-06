@@ -6,7 +6,7 @@ def dragon_game():
     print("1: Fight the dragon")
     print("2: Bait the dragon with meat and then run")
     print("3: Run away")
-    print("4: Befriend the dragon (creates a new timeline)\n")
+    print("4: Befriend the dragon\n")
 
     choice = input("Enter the number of your choice: ")
 
